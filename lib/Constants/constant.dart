@@ -1,0 +1,25 @@
+import 'package:flutter/material.dart';
+
+const appbarColor = Colors.red;
+const textColor = Colors.white;
+const appName = "Dinka App";
+const drawerMenu1 = "Paan de  South Sudan";
+const drawerMenu2 = "Thoŋ de jiëëŋ apieth";
+const drawerMenu3 = "Akeer ke thuɔŋjäŋ";
+const drawerMenu4 = "Tëëk de yic de Akeer";
+const drawerMenu5 = "Akeer dheu";
+const drawerMenu6 = "Akeer yäu";
+const drawerMenu7 = "Akeer dhëŋ";
+const drawerMenu8 = "Akeer lɔɔc";
+const drawerMenu9 = "Cɔ̈t de Akeer dheu ku Akeer yäu";
+const drawerMenu10 = "Nyooth de wël ke Akeer dheu";
+const drawerMenu11 = "Nyooth de wël ke Akeer Yäu";
+const drawerMenu12 = "Nyooth de wël ke Akeer dhëŋ";
+const drawerMenu13 = "Nyooth de wël ke Akeer lɔɔc";
+const drawerMenu14 = "Kuɛ̈n De Nambaai";
+const screen1BodyText = "Paan de Thäth Thudan atɔ̈ në baŋ cuëëc piny de Apirka. Tiɔmda anɔŋic Dääp ku Jaath ku Kopa ku Lɛ̈n gɛ̈ɛ̈k cï lëu në cuët. Kiirdït cɔl Nile ee tëëk në panda ciɛlic ku rëët abë lɔgut paan de Yïgip, ku dɔ̈ŋ piäu tonyda. Tiɔm de Thäth Thudan apiathic arëët aka cïï raan de wut de adiɛŋ lueel ye na com adiit në Thäth Thudan keka cil ku lok në kë cam. Ëkënnë abï wɔ paanda nhiaar arëët ku yuku luui thïn në kä ye kɔc yiɛ̈n dɔ̈ɔ̈r ku yïk nhial de pïïr.";
+const screen2BodyText = "Thoŋ de Jiëëŋ apiɛth. Thoŋ de Jiëëŋ apiɛth arëët. Piathde thoŋ de Jiëëŋ atɔ̈ në ajuɛɛr de Nhialic looi në kaamde ke raan. Në Baibolic, ke Nhialic yenëkee cak Nhial, ku ciɛk Piny ku këriëëc tɔ̈ piiny ëbɛ̈n. Ku na ye Köl de Dhetem ke cäk kɔɔr bë thök, go Nhialic tiɔp lööm ku cuëëc ku kuthic wëi ciɛk ke ye raan.  Ɣɔn acë raan cak ke ye kɛ̈ɛ̈rde, go jɔt ku tɛ̈ɛ̈u domic, Dom De Eden, ku ye bɛ̈n ku jiɛɛm ke yeen miäkduur ku aköl. Ku ciɛk tiŋ de Adem ku yïn en ku thieei keek bïkë piny thiɔ̈ɔ̈ŋnhom.\n Na ɣɔn acë run lɔ, ke Jɔk bɔ̈ domic ku dhoom tiŋ de Adem ku dhom tiŋ de Adem Adem. Go Nhialic piɔ̈u riääk ku cop Adem wei Dom De Eden kenë tiŋde.\n Go kɔc lɔ kuet, ku mɛ̈ɛ̈tkë röth ku luelkë yï wɔ bë ɣöt yïk, ɣön bɛ̈ɛ̈r bë wɔ laar Nhial të tɔ̈ ë Nhialic thïn. Ku gɔlkë luɔi. Go Nhialic akiirden nyicic ku yïnke thook juëciic. Gokë nhïm riɛr ku pɔ̈kë.\n Go kɔc kɔ̈k ke nhïïm bɛɛr lɔ määt ku lekë bɛ̈n keke ye Jiɛ̈ɛ̈ŋ, ku Cailïïth, ku Liŋëliith, ku Acolalït ku thook juëc tɔ̈ në pinynhom.\n Thoŋdan de Jiëëŋ aayïnë Nhialic wuɔɔk bï wɔ röth ya piŋ në tiɔpda nhom. Ku buku ya piɔɔny ku doorku në thoŋda. Ëkënë, abï wɔ Thoŋ de Jiëëŋ lööm ke thiekic arëët ku tɛ̈ɛ̈uku tueŋ ëthook nhïïm kedhiɛ. Lömku ke ye luɔɔida, buku röth piɔ̈ɔ̈c ku piööcku mïthkuɔ bïkë thoŋ de Jiëŋ, bïkë ya jam ku gätkë thoŋ de Jiëëŋ apieth, deet këyic apieth në jam ku gäär. Pälku nhiëër de Thook ke kɔc kɔ̈k ku nhiaarku thoŋda wɔ Jiëëŋ.\n Thoŋ de Jiëëŋ apieth. Thoŋ de Jiëëŋ apieth areët. Thoŋ de Jiëëŋ apieth në kët. Thoŋ de Jiëëŋ apieth në jam.";
+const screen4BodyText = "AKEER DHEU";
+const screen5BodyText ="AKEER YÄU";
+const screen6BodyText = "AKEER DHËŊ";
+const screen7BodyText = "AKEER LƆƆC";
